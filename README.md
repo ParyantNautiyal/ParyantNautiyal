@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ParyantNautiyal
-- 👀 I’m interested in  Blockchain
-- 🌱 I’m currently learning ...Blockchain
-- 💞️ I’m looking to collaborate on ... full stack applications ,Java Backend , DApps and  any blockchain related projects.
+- 👀 I’m interested in BIG DATA
+- 🌱 I’m currently learning ...DATA ENGINEERING
+- 💞️ I’m looking to collaborate on ... DATA ENGINEERING , CLOUD ARCHITECTURE , DATA MODELING PROJECTS
